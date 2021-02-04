@@ -1,0 +1,35 @@
+.color {
+  color: none;
+}
+.nav{
+  list-style: none;
+  border-bottom: 1px soli #ccc;
+  background-color: white;
+  margin: 0;
+  padding: 0;
+}
+.nav li {
+  display: inline;
+  margin: 0%;
+  padding: 15px 10px;
+  font-size: 20px;
+}
+.nav li a {
+  text-decoration: none;
+  color: black;
+}
+.icons{
+  width: 20px;
+  
+}
+#reference {
+  display:inline;
+  position: absolute;
+  right: 25px;
+  padding-top: 20px;
+  text-decoration: none;
+}
+.content{
+  text-align: center;
+  border-style: dotted;
+}
